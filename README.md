@@ -13,7 +13,8 @@ This project involves building an interactive Power BI dashboard to analyze the 
 - Support business growth by identifying trends, patterns, and opportunities for improvement.
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/286d3fa1-5ede-4b22-b89d-8bea201e29f0)
+![Madhav Sales Ecommerce](https://github.com/user-attachments/assets/b1f399ea-c7a6-49ee-b882-53c3f740a6e6)
+
 
 
 
